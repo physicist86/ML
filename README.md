@@ -42,4 +42,5 @@ start 'ALEX's ML Repo'                        _,..-"""--' `,.-".
                                                    """""`.,'         _\`----...' 
                                                           --------""'
 
+Ⓒ ALEXANDER LE, 2022. ALL RIGHTS RESERVED.
 </pre>
