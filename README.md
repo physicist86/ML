@@ -1,4 +1,4 @@
-# ML
+# ML (Machine Learning)
 
 <pre>
 $ neofetch
